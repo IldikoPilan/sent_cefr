@@ -11,9 +11,13 @@ Sentences 286-375 are individually occurring sentences collected from the COCTAI
 
 Number of sentences per CEFR level in the resource:
 A1 8 + 90 (from COCTAILL)
+
 A2 81
+
 B1 59
+
 B2 92
+
 C1 45
 
 The resource can be easily equipped with a wide variety of linguistic annotations using the Sparv (https://spraakbanken.gu.se/sparv/) pipeline both via a GUI or an API.
