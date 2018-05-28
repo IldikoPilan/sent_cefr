@@ -1,5 +1,5 @@
 # sent_cefr
-A small corpus of Swedish sentences with second language (L2) learning level annotations. The levels follow the scale of the Common European Framework of Reference for Languages (CEFR https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions).
+A small corpus of 375 Swedish sentences with second language (L2) learning level annotations. The levels follow the scale of the Common European Framework of Reference for Languages (CEFR https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions).
 
 Sentences numbered 1-285 are corpus examples collected from Korp from generic Swedish corpora (e.g. newspaper texts and novels). The CEFR level annotations are derived from the user evaluation of a corpus example selection system, HitEx (https://spraakbanken.gu.se/larka/hitex), where L2 Swedish teachers evaluated the sentences and their atomatically assigned CEFR levels. For more information about the user evaluation see the following paper: http://www.atala.org/content/candidate-sentence-selection-language-learning-exercises-comprehensive-framework-empirical. 
 
