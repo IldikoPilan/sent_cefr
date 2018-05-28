@@ -10,6 +10,7 @@ suitable (with an evaluation score >= 2.5 out of 4); and (ii) where a majority o
 Sentences 286-375 are individually occurring sentences collected from the COCTAILL corpus (https://spraakbanken.gu.se/eng/resource/coctaill) consisting of L2 Swedish coursebook texts.
 
 Number of sentences per CEFR level in the resource:
+
 A1 8 + 90 (from COCTAILL)
 
 A2 81
